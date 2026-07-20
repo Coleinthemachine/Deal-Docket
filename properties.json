@@ -1,5 +1,10 @@
 {
-  "generated_at": null,
-  "note": "Starter file. The GitHub Action overwrites this daily with live county data.",
+  "generated_at": "2026-07-20T14:09:38.556442+00:00",
+  "counts": {
+    "total": 0,
+    "auctions": 0,
+    "for_sale": 0
+  },
+  "disclaimer": "Auction 'price' fields are judgment/upset amounts, not market value. Verify every property before bidding. Sold as-is, buyer beware.",
   "properties": []
 }
