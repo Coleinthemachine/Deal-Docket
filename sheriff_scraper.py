@@ -20,7 +20,9 @@ IMPORTANT HONESTY NOTES
    July 2026.
 3. Bid4Assets renders some content with JavaScript. The requests-based parser
    grabs what is in the raw HTML; if it comes back empty, see README for the
-   Playwright fallback.
+   Playwright fallback. It's also expected to return 0 during the gap between
+   scheduled sales (see README — Chester's next sale after the May-Aug 2026
+   postponements is Sept 17, 2026).
 
 Usage:
   python sheriff_scraper.py                       # scrape both counties
@@ -92,13 +94,11 @@ ZIP_MAP = {
 ZIP_RE = re.compile(r"\b(19\d{3})\b")
 MONEY_RE = re.compile(r"\$\s*([\d,]+(?:\.\d{2})?)")
 
-
 def polite_get(url, session, **kw):
     time.sleep(REQUEST_DELAY)
     r = session.get(url, headers=HEADERS, timeout=TIMEOUT, **kw)
     r.raise_for_status()
     return r
-
 
 def classify_zip(text, default_county=None):
     m = ZIP_RE.search(text or "")
@@ -115,11 +115,9 @@ def classify_zip(text, default_county=None):
         return "Other (New Castle)", "New Castle, DE", m.group(1) if m else None
     return None, None, m.group(1) if m else None
 
-
 def parse_money(text):
     m = MONEY_RE.search(text or "")
     return float(m.group(1).replace(",", "")) if m else None
-
 
 # ----------------------------------------------------------------------------
 # SOURCE 1: New Castle County via CivilView SalesWeb (structured HTML)
@@ -128,7 +126,11 @@ def parse_money(text):
 def scrape_ncc_civilview(session):
     """SalesWeb lists NCC foreclosure sales in an HTML table with detail links.
     Columns typically: Details | Sheriff # | Sale Date | Plaintiff | Defendant | Address.
-    Detail pages add Approx. Judgment, status, and attorney info."""
+    Detail pages add Approx. Judgment, status, and attorney info.
+
+    NOTE: the page renders TWO <table> elements — a tiny 1-row layout table
+    first, then the real results table (class="table table-striped"). Picking
+    the first table on the page silently returns 0 rows every time."""
     out = []
     try:
         r = polite_get(SOURCES["ncc_civilview"], session)
@@ -137,7 +139,11 @@ def scrape_ncc_civilview(session):
         return out
 
     soup = BeautifulSoup(r.text, "html.parser")
-    table = soup.find("table")
+    table = soup.select_one("table.table-striped")
+    if not table:
+        # Fallback: pick whichever table on the page actually has rows of data.
+        candidates = soup.find_all("table")
+        table = max(candidates, key=lambda t: len(t.find_all("tr")), default=None)
     if not table:
         print("[warn] NCC CivilView: no table found — page layout may have changed", file=sys.stderr)
         return out
@@ -183,16 +189,24 @@ def scrape_ncc_civilview(session):
     print(f"[ok] NCC CivilView: {len(out)} records")
     return out
 
-
 # ----------------------------------------------------------------------------
 # SOURCE 2: New Castle County official PDF (fallback / cross-check)
 # ----------------------------------------------------------------------------
 
 def scrape_ncc_pdf(session):
     """The county publishes 'Current Sheriff Sale Listing' at a stable URL —
-    a Tyler Technologies report with parcel, judgment, writ type (MTG/TAX),
-    address+ZIP, status, and case numbers. Layout is columnar; we regex-mine
-    the text for address/ZIP/judgment triples."""
+    a Tyler/Crystal Reports report with ruled grid lines forming a real table
+    (Attorney | Plaintiff | Defendant | Parcel | Principal | Type | Address |
+    Status | Sheriff#/Case#).
+
+    NOTE: this used to be parsed with a single regex over extract_text(),
+    assuming address, zip, and status appear in that linear order. They
+    don't: Status is drawn on the same visual line as the FIRST line of a
+    wrapped street address, while the ZIP is on the wrapped line beneath it —
+    so in reading order the zip actually comes AFTER status, and the old
+    regex never matched. Because the PDF has real ruling lines, pdfplumber's
+    table extraction (which respects the grid, not just text position) is
+    the right tool here."""
     out = []
     if not HAS_PDF:
         print("[warn] pdfplumber not installed — skipping NCC PDF", file=sys.stderr)
@@ -205,31 +219,53 @@ def scrape_ncc_pdf(session):
 
     try:
         with pdfplumber.open(io.BytesIO(r.content)) as pdf:
-            text = "\n".join(page.extract_text() or "" for page in pdf.pages)
+            for page in pdf.pages:
+                for table in page.extract_tables():
+                    if not table or len(table) < 2:
+                        continue
+                    header = [(c or "").strip().upper() for c in table[0]]
+
+                    def col_idx(*keywords):
+                        for i, h in enumerate(header):
+                            if any(k in h for k in keywords):
+                                return i
+                        return None
+
+                    idx_principal = col_idx("PRINCI")
+                    idx_type = col_idx("TYPE")
+                    idx_address = col_idx("ADDRESS")
+                    idx_status = col_idx("STATUS")
+                    if idx_principal is None or idx_address is None:
+                        continue  # not the listing table, or layout changed — skip quietly
+
+                    for row in table[1:]:
+                        if not row or len(row) <= max(idx_principal, idx_address):
+                            continue
+                        principal_raw = row[idx_principal] or ""
+                        address_raw = re.sub(r"\s+", " ", (row[idx_address] or "").replace("\n", " ")).strip()
+                        type_raw = (row[idx_type] or "").strip().upper() if idx_type is not None else None
+                        status_raw = (row[idx_status] or "Scheduled").strip() if idx_status is not None else "Scheduled"
+
+                        judgment = parse_money(principal_raw)
+                        if judgment is None or not ZIP_RE.search(address_raw):
+                            continue  # header/subtotal/blank row, not a real listing
+
+                        out.append({
+                            "source": "Sheriff",
+                            "source_detail": f"New Castle County Sheriff Sale (official PDF, writ: {type_raw or '?'})",
+                            "address": address_raw,
+                            "sale_date_raw": None,  # sale date appears in the report header, not per-row
+                            "sheriff_no": None,
+                            "judgment": judgment,
+                            "status": status_raw.title(),
+                            "url": SOURCES["ncc_pdf"],
+                        })
     except Exception as e:
         print(f"[warn] NCC PDF parse failed: {e}", file=sys.stderr)
         return out
 
-    # Pattern per record (order in report): $judgment  MTG|TAX  ADDRESS CITY 19xxx  Status
-    rec_re = re.compile(
-        r"\$\s*([\d,]+\.\d{2})\s+(MTG|TAX|JDG)\s+(.+?)\s+(19\d{3})\s+(Scheduled|Stayed|Postponed|Canceled|Cancelled|Sold)",
-        re.I,
-    )
-    for m in rec_re.finditer(text):
-        judgment, writ, addr, zipc, status = m.groups()
-        out.append({
-            "source": "Sheriff",
-            "source_detail": f"New Castle County Sheriff Sale (official PDF, writ: {writ})",
-            "address": f"{addr.title()} {zipc}",
-            "sale_date_raw": None,  # sale date appears in the report header; fill from list header if needed
-            "sheriff_no": None,
-            "judgment": float(judgment.replace(",", "")),
-            "status": status.title(),
-            "url": SOURCES["ncc_pdf"],
-        })
     print(f"[ok] NCC PDF: {len(out)} records")
     return out
-
 
 # ----------------------------------------------------------------------------
 # SOURCE 3: Chester County via Bid4Assets
@@ -239,7 +275,12 @@ def scrape_chester_bid4assets(session):
     """Chester County sales run online via Bid4Assets (3rd Thursday, Jan–Nov).
     The county landing page links to /auction/index/<id> pages whose titles
     carry the property address. Some data is JS-rendered; we harvest whatever
-    is present in raw HTML and follow auction links for dates/bids."""
+    is present in raw HTML and follow auction links for dates/bids.
+
+    NOTE: this legitimately returns 0 between scheduled sales — e.g. as of
+    July 2026 the page shows only an account sign-up prompt because the
+    May-Aug sales were postponed to Sept 17 / Oct 15 / Nov 19, 2026. That is
+    not a parser bug; don't 'fix' this by loosening the link pattern."""
     out = []
     try:
         r = polite_get(SOURCES["chester_bid4assets"], session)
@@ -257,8 +298,9 @@ def scrape_chester_bid4assets(session):
             links.append(("https://www.bid4assets.com/auction/index/" + m.group(1), a.get_text(" ", strip=True)))
 
     if not links:
-        print("[warn] Bid4Assets: no auction links in raw HTML (likely JS-rendered). "
-              "Use the Playwright fallback in README.", file=sys.stderr)
+        print("[warn] Bid4Assets: no auction links in raw HTML. Either between sales "
+              "(check README's sale-date schedule) or JS-rendered — see README's "
+              "Playwright fallback.", file=sys.stderr)
         return out
 
     for url, link_text in links[:60]:  # safety cap
@@ -273,8 +315,8 @@ def scrape_chester_bid4assets(session):
         address = (title.group(1).strip() if title else link_text or "Address on auction page")
         stayed = bool(re.search(r"STAYED|POSTPONED|CANCEL", atext[:2000], re.I))
         date_m = re.search(r"(\d{2}-\d{2}-\d{4})\s+Chester County Sheriff sale", atext)
-        bid = parse_money(re.search(r"(Current|Opening|Minimum)\s+Bid[^$]*\$[\d,\.]+", atext, re.I).group(0)) \
-            if re.search(r"(Current|Opening|Minimum)\s+Bid", atext, re.I) else None
+        bid_match = re.search(r"(Current|Opening|Minimum)\s+Bid[^$]*\$[\d,\.]+", atext, re.I)
+        bid = parse_money(bid_match.group(0)) if bid_match else None
 
         out.append({
             "source": "Sheriff",
@@ -289,7 +331,6 @@ def scrape_chester_bid4assets(session):
         })
     print(f"[ok] Bid4Assets: {len(out)} records")
     return out
-
 
 # ----------------------------------------------------------------------------
 # SOURCE 4: For-sale listings via Redfin CSV export (no scraping needed)
@@ -325,7 +366,6 @@ def ingest_redfin_csv(path):
             })
     print(f"[ok] Redfin CSV: {len(out)} records")
     return out
-
 
 # ----------------------------------------------------------------------------
 # NORMALIZE -> tracker schema
@@ -363,7 +403,6 @@ def normalize(records):
         print(f"[info] skipped {skipped} records outside NCC/Chester ZIP footprint")
     return props
 
-
 def dedupe(props):
     seen, out = {}, []
     for p in props:
@@ -378,7 +417,6 @@ def dedupe(props):
         seen[key] = p
         out.append(p)
     return out
-
 
 def main():
     ap = argparse.ArgumentParser()
@@ -413,7 +451,6 @@ def main():
     with open(args.out, "w") as f:
         json.dump(payload, f, indent=2)
     print(f"[done] wrote {len(props)} properties -> {args.out}")
-
 
 if __name__ == "__main__":
     main()
