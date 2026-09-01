@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-31T17:43:29.223698+00:00",
+  "generated_at": "2026-09-01T15:08:02.289102+00:00",
   "counts": {
-    "total": 111,
-    "auctions": 111,
+    "total": 118,
+    "auctions": 118,
     "for_sale": 0
   },
   "disclaimer": "Auction 'price' fields are judgment/upset amounts, not market value. Verify every property before bidding. Sold as-is, buyer beware.",
@@ -22,7 +22,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247821"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591045"
     },
     {
       "id": 2,
@@ -39,7 +39,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247824"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591046"
     },
     {
       "id": 3,
@@ -56,7 +56,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247839"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591048"
     },
     {
       "id": 4,
@@ -73,7 +73,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247849"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591050"
     },
     {
       "id": 5,
@@ -90,7 +90,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247860"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591052"
     },
     {
       "id": 6,
@@ -107,7 +107,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247865"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591053"
     },
     {
       "id": 7,
@@ -124,7 +124,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247870"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591054"
     },
     {
       "id": 8,
@@ -141,7 +141,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247881"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591056"
     },
     {
       "id": 9,
@@ -158,7 +158,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247891"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591057"
     },
     {
       "id": 10,
@@ -175,7 +175,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247912"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591060"
     },
     {
       "id": 11,
@@ -192,7 +192,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247924"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591063"
     },
     {
       "id": 12,
@@ -209,7 +209,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247942"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591069"
     },
     {
       "id": 13,
@@ -226,7 +226,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247947"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591071"
     },
     {
       "id": 14,
@@ -243,7 +243,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247953"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591073"
     },
     {
       "id": 15,
@@ -260,7 +260,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247960"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591075"
     },
     {
       "id": 16,
@@ -277,7 +277,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247966"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591077"
     },
     {
       "id": 17,
@@ -294,7 +294,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247975"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591079"
     },
     {
       "id": 18,
@@ -311,7 +311,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247982"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591081"
     },
     {
       "id": 19,
@@ -328,7 +328,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247988"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591084"
     },
     {
       "id": 20,
@@ -345,7 +345,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247995"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591086"
     },
     {
       "id": 21,
@@ -362,7 +362,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247085"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124590853"
     },
     {
       "id": 22,
@@ -379,7 +379,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247093"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124590859"
     },
     {
       "id": 23,
@@ -396,7 +396,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247120"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124590887"
     },
     {
       "id": 24,
@@ -413,7 +413,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123247107"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124590880"
     },
     {
       "id": 25,
@@ -430,7 +430,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248018"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591092"
     },
     {
       "id": 26,
@@ -447,7 +447,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248026"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591094"
     },
     {
       "id": 27,
@@ -464,7 +464,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248042"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591100"
     },
     {
       "id": 28,
@@ -481,7 +481,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248051"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591104"
     },
     {
       "id": 29,
@@ -498,7 +498,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248058"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591108"
     },
     {
       "id": 30,
@@ -515,7 +515,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248067"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591121"
     },
     {
       "id": 31,
@@ -532,7 +532,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248072"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591139"
     },
     {
       "id": 32,
@@ -549,7 +549,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248076"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591147"
     },
     {
       "id": 33,
@@ -566,7 +566,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248081"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591155"
     },
     {
       "id": 34,
@@ -583,7 +583,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248085"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591159"
     },
     {
       "id": 35,
@@ -600,7 +600,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248091"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591167"
     },
     {
       "id": 36,
@@ -617,7 +617,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248095"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591172"
     },
     {
       "id": 37,
@@ -634,7 +634,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248099"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591176"
     },
     {
       "id": 38,
@@ -651,7 +651,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248103"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591184"
     },
     {
       "id": 39,
@@ -668,7 +668,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248108"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591191"
     },
     {
       "id": 40,
@@ -685,7 +685,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248112"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591198"
     },
     {
       "id": 41,
@@ -702,7 +702,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248117"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591207"
     },
     {
       "id": 42,
@@ -719,7 +719,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248122"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591217"
     },
     {
       "id": 43,
@@ -736,7 +736,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248126"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591240"
     },
     {
       "id": 45,
@@ -753,7 +753,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248141"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591325"
     },
     {
       "id": 46,
@@ -770,7 +770,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248146"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591334"
     },
     {
       "id": 47,
@@ -787,7 +787,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248151"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591345"
     },
     {
       "id": 48,
@@ -804,7 +804,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248154"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591352"
     },
     {
       "id": 49,
@@ -821,7 +821,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248157"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591359"
     },
     {
       "id": 50,
@@ -838,7 +838,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248160"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591367"
     },
     {
       "id": 51,
@@ -855,7 +855,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248163"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591374"
     },
     {
       "id": 52,
@@ -872,7 +872,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248166"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591384"
     },
     {
       "id": 53,
@@ -889,7 +889,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248170"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591392"
     },
     {
       "id": 54,
@@ -906,7 +906,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248173"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591404"
     },
     {
       "id": 55,
@@ -923,7 +923,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248178"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591413"
     },
     {
       "id": 56,
@@ -940,7 +940,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248181"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591423"
     },
     {
       "id": 57,
@@ -957,7 +957,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248184"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591430"
     },
     {
       "id": 58,
@@ -974,7 +974,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248187"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591433"
     },
     {
       "id": 59,
@@ -991,7 +991,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248190"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591438"
     },
     {
       "id": 60,
@@ -1008,7 +1008,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248193"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591442"
     },
     {
       "id": 61,
@@ -1025,7 +1025,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248198"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591447"
     },
     {
       "id": 62,
@@ -1042,7 +1042,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248201"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591450"
     },
     {
       "id": 63,
@@ -1059,7 +1059,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248204"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591455"
     },
     {
       "id": 64,
@@ -1076,7 +1076,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248207"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591458"
     },
     {
       "id": 65,
@@ -1093,7 +1093,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248210"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591461"
     },
     {
       "id": 66,
@@ -1110,7 +1110,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248213"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591464"
     },
     {
       "id": 67,
@@ -1127,7 +1127,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248218"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591469"
     },
     {
       "id": 68,
@@ -1144,7 +1144,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248222"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591473"
     },
     {
       "id": 69,
@@ -1161,7 +1161,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248225"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591477"
     },
     {
       "id": 70,
@@ -1178,7 +1178,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248228"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591479"
     },
     {
       "id": 71,
@@ -1195,7 +1195,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248237"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591488"
     },
     {
       "id": 72,
@@ -1212,7 +1212,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248240"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591491"
     },
     {
       "id": 73,
@@ -1229,7 +1229,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248244"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591495"
     },
     {
       "id": 74,
@@ -1246,7 +1246,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248247"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591498"
     },
     {
       "id": 75,
@@ -1263,7 +1263,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248250"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591506"
     },
     {
       "id": 76,
@@ -1280,7 +1280,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248253"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591509"
     },
     {
       "id": 77,
@@ -1297,7 +1297,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248258"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591513"
     },
     {
       "id": 78,
@@ -1314,7 +1314,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248261"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591517"
     },
     {
       "id": 79,
@@ -1331,7 +1331,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248264"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591523"
     },
     {
       "id": 80,
@@ -1348,7 +1348,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248267"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591528"
     },
     {
       "id": 81,
@@ -1365,7 +1365,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248270"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591536"
     },
     {
       "id": 82,
@@ -1382,7 +1382,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248273"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591540"
     },
     {
       "id": 83,
@@ -1399,7 +1399,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248278"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591547"
     },
     {
       "id": 84,
@@ -1416,7 +1416,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248281"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591553"
     },
     {
       "id": 85,
@@ -1433,7 +1433,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248284"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591558"
     },
     {
       "id": 86,
@@ -1450,7 +1450,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248287"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591566"
     },
     {
       "id": 87,
@@ -1467,10 +1467,129 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2123248290"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591571"
     },
     {
       "id": 88,
+      "address": "224 VERCELLI DRIVE BEAR DE",
+      "neighborhood": "Other (New Castle)",
+      "zip": "19701",
+      "county": "New Castle, DE",
+      "price": null,
+      "price_basis": "judgment_or_upset",
+      "source": "Sheriff",
+      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
+      "saleDate": null,
+      "status": "Scheduled",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591579"
+    },
+    {
+      "id": 89,
+      "address": "209 W. FRANKLIN AVENUE NEW CASTLE DE",
+      "neighborhood": "New Castle (city)",
+      "zip": "19720",
+      "county": "New Castle, DE",
+      "price": null,
+      "price_basis": "judgment_or_upset",
+      "source": "Sheriff",
+      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
+      "saleDate": null,
+      "status": "Scheduled",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591584"
+    },
+    {
+      "id": 90,
+      "address": "104 E. MAIN STREET MIDDLETOWN DE",
+      "neighborhood": "Other (New Castle)",
+      "zip": "19709",
+      "county": "New Castle, DE",
+      "price": null,
+      "price_basis": "judgment_or_upset",
+      "source": "Sheriff",
+      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
+      "saleDate": null,
+      "status": "Scheduled",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591589"
+    },
+    {
+      "id": 91,
+      "address": "4 DARLINGTON ROAD NEW CASTLE DE",
+      "neighborhood": "New Castle (city)",
+      "zip": "19720",
+      "county": "New Castle, DE",
+      "price": null,
+      "price_basis": "judgment_or_upset",
+      "source": "Sheriff",
+      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
+      "saleDate": null,
+      "status": "Scheduled",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591596"
+    },
+    {
+      "id": 92,
+      "address": "724 CALDWELL CORNER ROAD TOWNSEND DE",
+      "neighborhood": "Other (New Castle)",
+      "zip": "19734",
+      "county": "New Castle, DE",
+      "price": null,
+      "price_basis": "judgment_or_upset",
+      "source": "Sheriff",
+      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
+      "saleDate": null,
+      "status": "Scheduled",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591600"
+    },
+    {
+      "id": 93,
+      "address": "852 CRANBROOK DRIVE WILMINGTON DE",
+      "neighborhood": "Trolley Square",
+      "zip": "19803",
+      "county": "New Castle, DE",
+      "price": null,
+      "price_basis": "judgment_or_upset",
+      "source": "Sheriff",
+      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
+      "saleDate": null,
+      "status": "Scheduled",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591607"
+    },
+    {
+      "id": 94,
+      "address": "404 CHAMPS LANE MIDDLETOWN DE",
+      "neighborhood": "Other (New Castle)",
+      "zip": "19709",
+      "county": "New Castle, DE",
+      "price": null,
+      "price_basis": "judgment_or_upset",
+      "source": "Sheriff",
+      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
+      "saleDate": null,
+      "status": "Scheduled",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2124591611"
+    },
+    {
+      "id": 95,
       "address": "11 BUTTONWOOD AVENUE NEW CASTLE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -1487,7 +1606,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 89,
+      "id": 96,
       "address": "833 CLAYTON STREET NEW CASTLE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -1504,7 +1623,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 90,
+      "id": 97,
       "address": "31 PHOENIX AVENUE NEWARK",
       "neighborhood": "Other (New Castle)",
       "zip": "19702",
@@ -1521,7 +1640,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 91,
+      "id": 98,
       "address": "421 W. 22ND STREET WILMINGTON",
       "neighborhood": "Riverside",
       "zip": "19802",
@@ -1538,7 +1657,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 92,
+      "id": 99,
       "address": "3207 N. VAN BUREN STREET WILMINGTON",
       "neighborhood": "Riverside",
       "zip": "19802",
@@ -1555,7 +1674,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 93,
+      "id": 100,
       "address": "8 ELMHURST PLACE WILMINGTON",
       "neighborhood": "Newport",
       "zip": "19804",
@@ -1572,7 +1691,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 94,
+      "id": 101,
       "address": "1625 COLEMAN STREET WILMINGTON",
       "neighborhood": "Elsmere",
       "zip": "19805",
@@ -1589,7 +1708,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 95,
+      "id": 102,
       "address": "47 CHIPPENDALE CIRCLE NEWARK",
       "neighborhood": "Other (New Castle)",
       "zip": "19713",
@@ -1606,7 +1725,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 96,
+      "id": 103,
       "address": "30 BIRKSHIRE ROAD NEW CASTLE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -1623,7 +1742,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 97,
+      "id": 104,
       "address": "103 S. HARRISON STREET WILMINGTON",
       "neighborhood": "Elsmere",
       "zip": "19805",
@@ -1640,7 +1759,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 98,
+      "id": 105,
       "address": "12 STALLION DRIVE NEWARK",
       "neighborhood": "Other (New Castle)",
       "zip": "19713",
@@ -1657,7 +1776,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 99,
+      "id": 106,
       "address": "325 MARTIN DRIVE NEW CASTLE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -1674,7 +1793,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 100,
+      "id": 107,
       "address": "210 N. RODNEY STREET WILMINGTON",
       "neighborhood": "Elsmere",
       "zip": "19805",
@@ -1691,7 +1810,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 101,
+      "id": 108,
       "address": "203 ABBIGAIL CROSSING TOWNSEND",
       "neighborhood": "Other (New Castle)",
       "zip": "19734",
@@ -1708,7 +1827,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 102,
+      "id": 109,
       "address": "52 CASTLE RUN DRIVE BEAR",
       "neighborhood": "Other (New Castle)",
       "zip": "19701",
@@ -1725,7 +1844,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 103,
+      "id": 110,
       "address": "402 N. 5TH STREET ODESSA",
       "neighborhood": "Other (New Castle)",
       "zip": "19730",
@@ -1742,7 +1861,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 104,
+      "id": 111,
       "address": "4103 GOLF VIEW DRIVE NEWARK",
       "neighborhood": "Other (New Castle)",
       "zip": "19702",
@@ -1759,7 +1878,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 105,
+      "id": 112,
       "address": "209 W. UNIVERSITY AVENUE NEW CASTLE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -1776,7 +1895,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 106,
+      "id": 113,
       "address": "218 SEMINOLE DRIVE NEWARK",
       "neighborhood": "Other (New Castle)",
       "zip": "19702",
@@ -1793,7 +1912,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 107,
+      "id": 114,
       "address": "42 BLUE SPRUCE DRIVE BEAR",
       "neighborhood": "Other (New Castle)",
       "zip": "19701",
@@ -1810,7 +1929,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 108,
+      "id": 115,
       "address": "111 KENTON COURT NEW CASTLE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -1827,7 +1946,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 109,
+      "id": 116,
       "address": "300 WOODLAWN AVENUE NEWARK",
       "neighborhood": "Other (New Castle)",
       "zip": "19711",
@@ -1844,7 +1963,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 110,
+      "id": 117,
       "address": "301 NEW YORK AVENUE CLAYMONT",
       "neighborhood": "Other (New Castle)",
       "zip": "19703",
@@ -1861,7 +1980,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 111,
+      "id": 118,
       "address": "156 LAKE ARROWHEAD CIRCLE BEAR",
       "neighborhood": "Other (New Castle)",
       "zip": "19701",
@@ -1878,7 +1997,7 @@
       "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
     },
     {
-      "id": 112,
+      "id": 119,
       "address": "135 LANDERS LANE SPUR NEW CASTLE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
