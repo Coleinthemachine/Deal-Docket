@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-19T14:01:28.218864+00:00",
+  "generated_at": "2026-09-20T14:21:48.061470+00:00",
   "counts": {
-    "total": 159,
-    "auctions": 159,
+    "total": 99,
+    "auctions": 99,
     "for_sale": 0
   },
   "disclaimer": "Auction 'price' fields are judgment/upset amounts, not market value. Verify every property before bidding. Sold as-is, buyer beware.",
@@ -22,7 +22,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926480"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455080"
     },
     {
       "id": 2,
@@ -39,7 +39,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926485"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455083"
     },
     {
       "id": 3,
@@ -56,7 +56,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926495"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455088"
     },
     {
       "id": 4,
@@ -73,7 +73,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926499"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455092"
     },
     {
       "id": 5,
@@ -90,7 +90,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926505"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455094"
     },
     {
       "id": 6,
@@ -107,7 +107,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926509"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455099"
     },
     {
       "id": 7,
@@ -124,7 +124,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926515"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455101"
     },
     {
       "id": 8,
@@ -141,7 +141,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926520"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455104"
     },
     {
       "id": 9,
@@ -158,7 +158,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926525"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455106"
     },
     {
       "id": 10,
@@ -175,7 +175,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926531"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455110"
     },
     {
       "id": 11,
@@ -192,7 +192,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926537"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455115"
     },
     {
       "id": 12,
@@ -209,7 +209,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926543"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455118"
     },
     {
       "id": 13,
@@ -226,7 +226,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926552"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455123"
     },
     {
       "id": 14,
@@ -243,7 +243,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926557"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455126"
     },
     {
       "id": 15,
@@ -260,7 +260,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926565"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455129"
     },
     {
       "id": 16,
@@ -277,7 +277,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926569"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455133"
     },
     {
       "id": 17,
@@ -294,7 +294,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926575"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455137"
     },
     {
       "id": 19,
@@ -311,7 +311,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926595"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455153"
     },
     {
       "id": 20,
@@ -328,7 +328,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926598"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455156"
     },
     {
       "id": 21,
@@ -345,7 +345,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926600"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455159"
     },
     {
       "id": 22,
@@ -362,7 +362,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926605"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455162"
     },
     {
       "id": 23,
@@ -379,7 +379,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926610"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455165"
     },
     {
       "id": 24,
@@ -396,7 +396,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926614"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455168"
     },
     {
       "id": 25,
@@ -413,7 +413,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926620"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455174"
     },
     {
       "id": 26,
@@ -430,7 +430,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926622"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455177"
     },
     {
       "id": 27,
@@ -447,7 +447,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926626"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455181"
     },
     {
       "id": 28,
@@ -464,7 +464,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926631"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455184"
     },
     {
       "id": 29,
@@ -481,7 +481,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926634"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455187"
     },
     {
       "id": 30,
@@ -498,7 +498,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926636"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455189"
     },
     {
       "id": 31,
@@ -515,7 +515,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926641"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455195"
     },
     {
       "id": 32,
@@ -532,7 +532,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926646"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455198"
     },
     {
       "id": 33,
@@ -549,7 +549,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926657"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455204"
     },
     {
       "id": 34,
@@ -566,7 +566,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926665"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455207"
     },
     {
       "id": 35,
@@ -583,7 +583,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926669"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455210"
     },
     {
       "id": 36,
@@ -600,7 +600,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926675"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455213"
     },
     {
       "id": 37,
@@ -617,7 +617,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926682"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455216"
     },
     {
       "id": 38,
@@ -634,7 +634,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926687"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455220"
     },
     {
       "id": 39,
@@ -651,7 +651,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926699"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455225"
     },
     {
       "id": 40,
@@ -668,7 +668,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926703"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455228"
     },
     {
       "id": 41,
@@ -685,7 +685,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926714"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455233"
     },
     {
       "id": 42,
@@ -702,7 +702,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926717"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455237"
     },
     {
       "id": 43,
@@ -719,7 +719,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926730"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455242"
     },
     {
       "id": 44,
@@ -736,7 +736,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926736"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455245"
     },
     {
       "id": 45,
@@ -753,7 +753,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926739"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455248"
     },
     {
       "id": 46,
@@ -770,7 +770,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926748"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455251"
     },
     {
       "id": 47,
@@ -787,7 +787,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926752"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455254"
     },
     {
       "id": 48,
@@ -804,7 +804,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926755"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455257"
     },
     {
       "id": 49,
@@ -821,7 +821,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926759"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455260"
     },
     {
       "id": 50,
@@ -838,7 +838,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926763"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455263"
     },
     {
       "id": 51,
@@ -855,7 +855,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926766"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455266"
     },
     {
       "id": 52,
@@ -872,7 +872,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926768"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455269"
     },
     {
       "id": 53,
@@ -889,7 +889,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926774"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455272"
     },
     {
       "id": 54,
@@ -906,7 +906,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926777"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455275"
     },
     {
       "id": 55,
@@ -923,7 +923,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926780"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455278"
     },
     {
       "id": 56,
@@ -940,7 +940,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926783"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455281"
     },
     {
       "id": 57,
@@ -957,7 +957,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926788"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455284"
     },
     {
       "id": 58,
@@ -974,7 +974,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926791"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455287"
     },
     {
       "id": 59,
@@ -991,7 +991,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926795"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455291"
     },
     {
       "id": 60,
@@ -1008,7 +1008,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926798"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455294"
     },
     {
       "id": 61,
@@ -1025,7 +1025,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926802"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455297"
     },
     {
       "id": 62,
@@ -1042,7 +1042,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926805"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455299"
     },
     {
       "id": 63,
@@ -1059,7 +1059,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926813"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455306"
     },
     {
       "id": 64,
@@ -1076,7 +1076,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926816"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455309"
     },
     {
       "id": 65,
@@ -1093,7 +1093,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926818"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455312"
     },
     {
       "id": 66,
@@ -1110,7 +1110,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926821"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455315"
     },
     {
       "id": 67,
@@ -1127,7 +1127,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926823"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455317"
     },
     {
       "id": 68,
@@ -1144,7 +1144,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926825"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455320"
     },
     {
       "id": 69,
@@ -1161,7 +1161,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926829"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455323"
     },
     {
       "id": 70,
@@ -1178,7 +1178,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926833"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455329"
     },
     {
       "id": 71,
@@ -1195,7 +1195,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926475"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455077"
     },
     {
       "id": 72,
@@ -1212,7 +1212,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149925494"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151454610"
     },
     {
       "id": 73,
@@ -1229,7 +1229,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149925498"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151454612"
     },
     {
       "id": 74,
@@ -1246,7 +1246,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926836"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455332"
     },
     {
       "id": 75,
@@ -1263,7 +1263,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926838"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455335"
     },
     {
       "id": 76,
@@ -1280,7 +1280,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926841"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455338"
     },
     {
       "id": 77,
@@ -1297,7 +1297,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926846"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455341"
     },
     {
       "id": 78,
@@ -1314,7 +1314,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926851"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455344"
     },
     {
       "id": 79,
@@ -1331,7 +1331,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926854"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455347"
     },
     {
       "id": 80,
@@ -1348,7 +1348,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926859"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455350"
     },
     {
       "id": 81,
@@ -1365,7 +1365,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926863"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455353"
     },
     {
       "id": 82,
@@ -1382,7 +1382,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926867"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455357"
     },
     {
       "id": 83,
@@ -1399,7 +1399,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926872"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455360"
     },
     {
       "id": 84,
@@ -1416,7 +1416,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926877"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455363"
     },
     {
       "id": 85,
@@ -1433,7 +1433,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926881"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455366"
     },
     {
       "id": 86,
@@ -1450,7 +1450,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926886"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455369"
     },
     {
       "id": 87,
@@ -1467,7 +1467,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926889"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455372"
     },
     {
       "id": 88,
@@ -1484,7 +1484,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926895"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455374"
     },
     {
       "id": 89,
@@ -1501,7 +1501,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926898"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455377"
     },
     {
       "id": 90,
@@ -1518,7 +1518,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926902"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455379"
     },
     {
       "id": 91,
@@ -1535,7 +1535,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926908"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455382"
     },
     {
       "id": 92,
@@ -1552,7 +1552,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926911"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455386"
     },
     {
       "id": 93,
@@ -1569,7 +1569,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926919"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455389"
     },
     {
       "id": 94,
@@ -1586,7 +1586,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926923"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455392"
     },
     {
       "id": 95,
@@ -1603,7 +1603,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926930"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455395"
     },
     {
       "id": 96,
@@ -1620,7 +1620,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926933"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455398"
     },
     {
       "id": 97,
@@ -1637,7 +1637,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926938"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455401"
     },
     {
       "id": 98,
@@ -1654,7 +1654,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926942"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455404"
     },
     {
       "id": 99,
@@ -1671,7 +1671,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926944"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455407"
     },
     {
       "id": 100,
@@ -1688,1027 +1688,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2149926946"
-    },
-    {
-      "id": 101,
-      "address": "1004 S. BROOM STREET WILMINGTON",
-      "neighborhood": "Elsmere",
-      "zip": "19805",
-      "county": "New Castle, DE",
-      "price": 51187,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: TAX)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 102,
-      "address": "2132 N. MARKET STREET WILMINGTON",
-      "neighborhood": "Riverside",
-      "zip": "19802",
-      "county": "New Castle, DE",
-      "price": 164327,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: TAX)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 103,
-      "address": "605 N. MONROE STREET WILMINGTON",
-      "neighborhood": "Hilltop",
-      "zip": "19801",
-      "county": "New Castle, DE",
-      "price": 23071,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: TAX)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 104,
-      "address": "*6 BUTTONWOOD COURT NEWARK",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19702",
-      "county": "New Castle, DE",
-      "price": 62127,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: TAX)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 105,
-      "address": "*716 OLD BALTIMORE PIKE NEWARK",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19702",
-      "county": "New Castle, DE",
-      "price": 36620,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: TAX)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 106,
-      "address": "*106 SOUTHWICK DRIVE WILMINGTON",
-      "neighborhood": "Bellefonte",
-      "zip": "19810",
-      "county": "New Castle, DE",
-      "price": 60328,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: TAX)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 107,
-      "address": "*3311 HEATHER COURT WILMINGTON",
-      "neighborhood": "Bellefonte",
-      "zip": "19809",
-      "county": "New Castle, DE",
-      "price": 64827,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: TAX)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 108,
-      "address": "*129 COURTNEY STREET NEWARK",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19711",
-      "county": "New Castle, DE",
-      "price": 48909,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: TAX)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 109,
-      "address": "*1 LAKE DRIVE BEAR",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19701",
-      "county": "New Castle, DE",
-      "price": 7642,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: TAX)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 110,
-      "address": "*1007 PARKSIDE DRIVE WILMINGTON",
-      "neighborhood": "Trolley Square",
-      "zip": "19803",
-      "county": "New Castle, DE",
-      "price": 64371,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: TAX)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 111,
-      "address": "*2605 STEPHENSON DRIVE WILMINGTON",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19808",
-      "county": "New Castle, DE",
-      "price": 62078,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: TAX)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 112,
-      "address": "149 TYWYN DRIVE MIDDLETOWN",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19709",
-      "county": "New Castle, DE",
-      "price": 3185,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: JUDG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 113,
-      "address": "7 S. PHEASANTS RIDGE WILMINGTON",
-      "neighborhood": "Trolley Square",
-      "zip": "19807",
-      "county": "New Castle, DE",
-      "price": 83917,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: JUDG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 114,
-      "address": "16 CARSDALE COURT WILMINGTON",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19808",
-      "county": "New Castle, DE",
-      "price": 252568,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 115,
-      "address": "118 HAYDEN AVENUE WILMINGTON",
-      "neighborhood": "Newport",
-      "zip": "19804",
-      "county": "New Castle, DE",
-      "price": 83631,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Stayed-Attorney",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 116,
-      "address": "1626, 1628,1630 N. THATCHER STREET WILMINGTON",
-      "neighborhood": "Riverside",
-      "zip": "19802",
-      "county": "New Castle, DE",
-      "price": 154843,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 117,
-      "address": "513 N. HARRISON STREET WILMINGTON",
-      "neighborhood": "Elsmere",
-      "zip": "19805",
-      "county": "New Castle, DE",
-      "price": 184466,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 118,
-      "address": "29 WINDFLOWER DRIVE NEWARK",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19711",
-      "county": "New Castle, DE",
-      "price": 161222,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 119,
-      "address": "868 LISSICASEY LOOP MIDDLETOWN",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19709",
-      "county": "New Castle, DE",
-      "price": 272117,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 120,
-      "address": "1 SHELLCREST LANE WILMINGTON",
-      "neighborhood": "Trolley Square",
-      "zip": "19803",
-      "county": "New Castle, DE",
-      "price": 157311,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 121,
-      "address": "3 FURMAN COURT NEWARK",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19713",
-      "county": "New Castle, DE",
-      "price": 61918,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 123,
-      "address": "402 W. 22ND STREET WILMINGTON",
-      "neighborhood": "Riverside",
-      "zip": "19802",
-      "county": "New Castle, DE",
-      "price": 192285,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 124,
-      "address": "8 BOWFIN DRIVE NEWARK",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19702",
-      "county": "New Castle, DE",
-      "price": 214669,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 125,
-      "address": "1201 N. CLAYMONT STREET WILMINGTON",
-      "neighborhood": "Riverside",
-      "zip": "19802",
-      "county": "New Castle, DE",
-      "price": 28832,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 126,
-      "address": "48 COLBY AVENUE CLAYMONT",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19703",
-      "county": "New Castle, DE",
-      "price": 20500,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 127,
-      "address": "2602 CROSSGATE DRIVE WILMINGTON",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19808",
-      "county": "New Castle, DE",
-      "price": 31061,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 128,
-      "address": "226 STONEBRIDGE BOULEVARD NEW CASTLE",
-      "neighborhood": "New Castle (city)",
-      "zip": "19720",
-      "county": "New Castle, DE",
-      "price": 79183,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Stayed-Attorney",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 129,
-      "address": "125 HALLOWEEN RUN NEWARK",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19702",
-      "county": "New Castle, DE",
-      "price": 223597,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Stayed-Attorney",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 130,
-      "address": "105 W. 24TH STREET WILMINGTON",
-      "neighborhood": "Riverside",
-      "zip": "19802",
-      "county": "New Castle, DE",
-      "price": 135724,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Stayed-Attorney",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 131,
-      "address": "12 MAPLESHADE DRIVE NEWARK",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19702",
-      "county": "New Castle, DE",
-      "price": 370574,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 132,
-      "address": "211 OLGA ROAD WILMINGTON",
-      "neighborhood": "Elsmere",
-      "zip": "19805",
-      "county": "New Castle, DE",
-      "price": 101382,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 133,
-      "address": "502 DELAMORE PL WILMINGTON",
-      "neighborhood": "Elsmere",
-      "zip": "19805",
-      "county": "New Castle, DE",
-      "price": 64570,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 134,
-      "address": "2710 MARKLYN DRIVE WILMINGTON",
-      "neighborhood": "Bellefonte",
-      "zip": "19810",
-      "county": "New Castle, DE",
-      "price": 128081,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 135,
-      "address": "12 FREEDOM COURT NEW CASTLE",
-      "neighborhood": "New Castle (city)",
-      "zip": "19720",
-      "county": "New Castle, DE",
-      "price": 145353,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 136,
-      "address": "2800 N. WEST STREET WILMINGTON",
-      "neighborhood": "Riverside",
-      "zip": "19802",
-      "county": "New Castle, DE",
-      "price": 157469,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 137,
-      "address": "101 VERONICA LANE BEAR",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19701",
-      "county": "New Castle, DE",
-      "price": 193746,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 138,
-      "address": "16 COLE BLVD MIDDLETOWN",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19709",
-      "county": "New Castle, DE",
-      "price": 106159,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 139,
-      "address": "596 CLIFTON DRIVE BEAR",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19701",
-      "county": "New Castle, DE",
-      "price": 277820,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 140,
-      "address": "67 SAVOY ROAD NEWARK",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19702",
-      "county": "New Castle, DE",
-      "price": 230264,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 141,
-      "address": "2420 GRUBB ROAD WILMINGTON",
-      "neighborhood": "Bellefonte",
-      "zip": "19810",
-      "county": "New Castle, DE",
-      "price": 554768,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 142,
-      "address": "236 MISTMEADOW DRIVE MIDDLETOWN",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19709",
-      "county": "New Castle, DE",
-      "price": 486189,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 143,
-      "address": "923 BLACKBIRD STATION ROAD TOWNSEND",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19734",
-      "county": "New Castle, DE",
-      "price": 311656,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 144,
-      "address": "2205 GRAEMER ROAD WILMINGTON",
-      "neighborhood": "Bellefonte",
-      "zip": "19809",
-      "county": "New Castle, DE",
-      "price": 166727,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 145,
-      "address": "38 OAKMONT DRIVE NEW CASTLE",
-      "neighborhood": "New Castle (city)",
-      "zip": "19720",
-      "county": "New Castle, DE",
-      "price": 62374,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 146,
-      "address": "251 SHAI CIRCLE BEAR",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19701",
-      "county": "New Castle, DE",
-      "price": 140643,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 147,
-      "address": "925 S. BROOM STREET WILMINGTON",
-      "neighborhood": "Elsmere",
-      "zip": "19805",
-      "county": "New Castle, DE",
-      "price": 149078,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Stayed-Attorney",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 148,
-      "address": "3 SPRING DRIVE NEWARK",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19702",
-      "county": "New Castle, DE",
-      "price": 250004,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 149,
-      "address": "1518 SETON DRIVE WILMINGTON",
-      "neighborhood": "Bellefonte",
-      "zip": "19809",
-      "county": "New Castle, DE",
-      "price": 174422,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 150,
-      "address": "1607 WEST 4TH STREET WILMINGTON",
-      "neighborhood": "Elsmere",
-      "zip": "19805",
-      "county": "New Castle, DE",
-      "price": 157213,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 151,
-      "address": "1615 ROBBINS PLACE WILMINGTON",
-      "neighborhood": "Elsmere",
-      "zip": "19805",
-      "county": "New Castle, DE",
-      "price": 152995,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 152,
-      "address": "209 W. FRANKLIN AVENUE NEW CASTLE",
-      "neighborhood": "New Castle (city)",
-      "zip": "19720",
-      "county": "New Castle, DE",
-      "price": 136770,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 153,
-      "address": "104 E. MAIN STREET MIDDLETOWN",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19709",
-      "county": "New Castle, DE",
-      "price": 131643,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 154,
-      "address": "724 CALDWELL CORNER ROAD TOWNSEND",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19734",
-      "county": "New Castle, DE",
-      "price": 179968,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 155,
-      "address": "852 CRANBROOK DRIVE WILMINGTON",
-      "neighborhood": "Trolley Square",
-      "zip": "19803",
-      "county": "New Castle, DE",
-      "price": 77600,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 156,
-      "address": "20 MELODY DRIVE NEWARK",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19702",
-      "county": "New Castle, DE",
-      "price": 201453,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 157,
-      "address": "185 VINCENT CIRCLE MIDDLETOWN",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19709",
-      "county": "New Castle, DE",
-      "price": 173130,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 158,
-      "address": "814 NAUDAIN AVENUE CLAYMONT",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19703",
-      "county": "New Castle, DE",
-      "price": 254437,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 159,
-      "address": "1707 BARNABY STREET NEWARK",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19702",
-      "county": "New Castle, DE",
-      "price": 257061,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 160,
-      "address": "502 TAMARA CIRCLE NEWARK",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19711",
-      "county": "New Castle, DE",
-      "price": 201270,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
-    },
-    {
-      "id": 161,
-      "address": "1410 FLINTSHIRE DRIVE MIDDLETOWN",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19709",
-      "county": "New Castle, DE",
-      "price": 291006,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (official PDF, writ: MTG)",
-      "saleDate": null,
-      "status": "Stayed-Attorney",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://www.newcastlede.gov/DocumentCenter/View/266/Current-Sheriff-Sale-Listing"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2151455410"
     }
   ]
 }
