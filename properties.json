@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-28T16:48:19.428188+00:00",
+  "generated_at": "2026-10-29T17:04:14.049539+00:00",
   "counts": {
-    "total": 79,
-    "auctions": 79,
+    "total": 81,
+    "auctions": 81,
     "for_sale": 0
   },
   "disclaimer": "Auction 'price' fields are judgment/upset amounts, not market value. Verify every property before bidding. Sold as-is, buyer beware.",
@@ -22,7 +22,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380245"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194498"
     },
     {
       "id": 2,
@@ -39,7 +39,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380248"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194505"
     },
     {
       "id": 3,
@@ -56,7 +56,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380249"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194507"
     },
     {
       "id": 4,
@@ -73,7 +73,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380250"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194509"
     },
     {
       "id": 5,
@@ -90,7 +90,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380251"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194511"
     },
     {
       "id": 6,
@@ -107,7 +107,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380253"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194514"
     },
     {
       "id": 7,
@@ -124,7 +124,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380254"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194516"
     },
     {
       "id": 8,
@@ -141,7 +141,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380256"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194519"
     },
     {
       "id": 9,
@@ -158,7 +158,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380258"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194522"
     },
     {
       "id": 10,
@@ -175,7 +175,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380261"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194531"
     },
     {
       "id": 11,
@@ -192,7 +192,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380263"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194534"
     },
     {
       "id": 12,
@@ -209,7 +209,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380265"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194537"
     },
     {
       "id": 13,
@@ -226,7 +226,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380267"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194540"
     },
     {
       "id": 14,
@@ -243,7 +243,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380269"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194543"
     },
     {
       "id": 15,
@@ -260,7 +260,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380271"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194546"
     },
     {
       "id": 16,
@@ -277,7 +277,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380273"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194551"
     },
     {
       "id": 17,
@@ -294,7 +294,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380275"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194554"
     },
     {
       "id": 18,
@@ -311,7 +311,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380279"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194563"
     },
     {
       "id": 19,
@@ -328,7 +328,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380281"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194568"
     },
     {
       "id": 20,
@@ -345,7 +345,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380285"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194579"
     },
     {
       "id": 21,
@@ -362,7 +362,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380287"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194584"
     },
     {
       "id": 22,
@@ -379,7 +379,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380291"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194596"
     },
     {
       "id": 23,
@@ -396,7 +396,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380293"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194601"
     },
     {
       "id": 24,
@@ -413,7 +413,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380295"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194605"
     },
     {
       "id": 25,
@@ -430,7 +430,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380297"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194615"
     },
     {
       "id": 26,
@@ -447,7 +447,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380299"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194620"
     },
     {
       "id": 27,
@@ -464,7 +464,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380301"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194626"
     },
     {
       "id": 28,
@@ -481,7 +481,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380303"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194632"
     },
     {
       "id": 29,
@@ -498,7 +498,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380310"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194652"
     },
     {
       "id": 30,
@@ -515,7 +515,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380314"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194665"
     },
     {
       "id": 31,
@@ -532,7 +532,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380316"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194668"
     },
     {
       "id": 32,
@@ -549,7 +549,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380048"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194196"
     },
     {
       "id": 33,
@@ -566,7 +566,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380050"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194200"
     },
     {
       "id": 34,
@@ -583,7 +583,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380044"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194188"
     },
     {
       "id": 35,
@@ -600,7 +600,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380049"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194198"
     },
     {
       "id": 36,
@@ -617,27 +617,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380047"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194194"
     },
     {
       "id": 37,
-      "address": "152 VINCENT CIRCLE MIDDLETOWN DE",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19709",
-      "county": "New Castle, DE",
-      "price": null,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380319"
-    },
-    {
-      "id": 38,
       "address": "39 CHERRY ROAD NEW CASTLE DE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -651,10 +634,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380322"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194681"
     },
     {
-      "id": 39,
+      "id": 38,
       "address": "20 CALVARESE DRIVE BEAR DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19701",
@@ -668,10 +651,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380324"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194688"
     },
     {
-      "id": 40,
+      "id": 39,
       "address": "2122 N. PINE STREET WILMINGTON DE",
       "neighborhood": "Riverside",
       "zip": "19802",
@@ -685,10 +668,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380328"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194694"
     },
     {
-      "id": 41,
+      "id": 40,
       "address": "207 N. FORD AVENUE WILMINGTON DE",
       "neighborhood": "Elsmere",
       "zip": "19805",
@@ -702,10 +685,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380331"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194700"
     },
     {
-      "id": 42,
+      "id": 41,
       "address": "1000 STINSFORD DRIVE NEWARK DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19713",
@@ -719,10 +702,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380333"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194715"
     },
     {
-      "id": 43,
+      "id": 42,
       "address": "4 VERSAILLES COURT NEWARK DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19702",
@@ -736,10 +719,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380339"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194721"
     },
     {
-      "id": 44,
+      "id": 43,
       "address": "8602 PARK COURT WILMINGTON DE",
       "neighborhood": "Riverside",
       "zip": "19802",
@@ -753,10 +736,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380344"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194734"
     },
     {
-      "id": 45,
+      "id": 44,
       "address": "41 READ AVENUE WILMINGTON DE",
       "neighborhood": "Newport",
       "zip": "19804",
@@ -770,10 +753,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380349"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194757"
     },
     {
-      "id": 46,
+      "id": 45,
       "address": "806 W. 21ST STREET WILMINGTON DE",
       "neighborhood": "Riverside",
       "zip": "19802",
@@ -787,10 +770,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380355"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194767"
     },
     {
-      "id": 47,
+      "id": 46,
       "address": "430 W. HANNA DRIVE NEWARK DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19702",
@@ -804,10 +787,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380360"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194776"
     },
     {
-      "id": 48,
+      "id": 47,
       "address": "312 W. 22ND STREET WILMINGTON DE",
       "neighborhood": "Riverside",
       "zip": "19802",
@@ -821,10 +804,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380366"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194782"
     },
     {
-      "id": 49,
+      "id": 48,
       "address": "*530 VINTAGE ROAD HOCKESSIN DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19707",
@@ -838,10 +821,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380370"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194790"
     },
     {
-      "id": 50,
+      "id": 49,
       "address": "*2517 GRENDON DRIVE WILMINGTON DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19808",
@@ -855,10 +838,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380376"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194795"
     },
     {
-      "id": 51,
+      "id": 50,
       "address": "*269 MILFORD DRIVE MIDDLETOWN DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19709",
@@ -872,10 +855,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380381"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194803"
     },
     {
-      "id": 52,
+      "id": 51,
       "address": "*6238 SUMMIT BRIDGE ROAD TOWNSEND DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19734",
@@ -889,10 +872,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380387"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194811"
     },
     {
-      "id": 53,
+      "id": 52,
       "address": "*74 ROSE LANE NEW CASTLE DE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -906,10 +889,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380394"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194818"
     },
     {
-      "id": 54,
+      "id": 53,
       "address": "*33 E. EDINBURGH DRIVE NEW CASTLE DE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -923,10 +906,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380398"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194826"
     },
     {
-      "id": 55,
+      "id": 54,
       "address": "*204 LIBERTY BOULEVARD NEW CASTLE DE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -940,10 +923,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380400"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194833"
     },
     {
-      "id": 56,
+      "id": 55,
       "address": "*207 RED TAILED HAWK LANE MIDDLETOWN DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19709",
@@ -957,10 +940,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380402"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194841"
     },
     {
-      "id": 57,
+      "id": 56,
       "address": "*2868 WRANGLE HILL ROAD BEAR DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19701",
@@ -974,10 +957,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380404"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194848"
     },
     {
-      "id": 58,
+      "id": 57,
       "address": "911 S. BROOM STREET WILMINGTON DE",
       "neighborhood": "Elsmere",
       "zip": "19805",
@@ -991,10 +974,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380406"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194865"
     },
     {
-      "id": 59,
+      "id": 58,
       "address": "207 LLOYD GUESSFORD ROAD TOWNSEND DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19734",
@@ -1008,10 +991,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380408"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194886"
     },
     {
-      "id": 60,
+      "id": 59,
       "address": "1204 NEW STREET WILMINGTON DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19808",
@@ -1025,10 +1008,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380410"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194893"
     },
     {
-      "id": 61,
+      "id": 60,
       "address": "2607 FAIRHOPE ROAD WILMINGTON DE",
       "neighborhood": "Bellefonte",
       "zip": "19810",
@@ -1042,10 +1025,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380412"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194898"
     },
     {
-      "id": 62,
+      "id": 61,
       "address": "220 N. CLAYTON STREET WILMINGTON DE",
       "neighborhood": "Elsmere",
       "zip": "19805",
@@ -1059,10 +1042,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380414"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194903"
     },
     {
-      "id": 63,
+      "id": 62,
       "address": "219 RICE DRIVE BEAR DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19701",
@@ -1076,10 +1059,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380415"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194912"
     },
     {
-      "id": 64,
+      "id": 63,
       "address": "609 N. TATNALL STREET WILMINGTON DE",
       "neighborhood": "Hilltop",
       "zip": "19801",
@@ -1093,10 +1076,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380417"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194916"
     },
     {
-      "id": 65,
+      "id": 64,
       "address": "1016 N. ADAMS STREET WILMINGTON DE",
       "neighborhood": "Hilltop",
       "zip": "19801",
@@ -1110,10 +1093,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380419"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194922"
     },
     {
-      "id": 66,
+      "id": 65,
       "address": "*94 KARLYN DRIVE NEW CASTLE DE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -1127,10 +1110,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380421"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194928"
     },
     {
-      "id": 67,
+      "id": 66,
       "address": "*75 ROSE LANE NEW CASTLE DE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -1144,10 +1127,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380423"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194934"
     },
     {
-      "id": 68,
+      "id": 67,
       "address": "*0 LOVEVILLE ROAD WILMINGTON DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19808",
@@ -1161,10 +1144,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380425"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194940"
     },
     {
-      "id": 69,
+      "id": 68,
       "address": "*0 RUE MADORA BEAR DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19701",
@@ -1178,10 +1161,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380427"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194946"
     },
     {
-      "id": 70,
+      "id": 69,
       "address": "*2132 N. MARKET STREET WILMINGTON DE",
       "neighborhood": "Riverside",
       "zip": "19802",
@@ -1195,10 +1178,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380429"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194952"
     },
     {
-      "id": 71,
+      "id": 70,
       "address": "841 N. MADISON STREET WILMINGTON DE",
       "neighborhood": "Hilltop",
       "zip": "19801",
@@ -1212,10 +1195,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380430"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194957"
     },
     {
-      "id": 72,
+      "id": 71,
       "address": "1335 CYPRESS AVENUE WILMINGTON DE",
       "neighborhood": "Elsmere",
       "zip": "19805",
@@ -1229,10 +1212,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380432"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194963"
     },
     {
-      "id": 73,
+      "id": 72,
       "address": "1006 DILWORTH ROAD WILMINGTON DE",
       "neighborhood": "Elsmere",
       "zip": "19805",
@@ -1246,10 +1229,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380434"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194969"
     },
     {
-      "id": 74,
+      "id": 73,
       "address": "1233 WEST FOURTH STREET WILMINGTON DE",
       "neighborhood": "Elsmere",
       "zip": "19805",
@@ -1263,10 +1246,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380436"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194975"
     },
     {
-      "id": 75,
+      "id": 74,
       "address": "2 AVIGNON DRIVE NEWARK DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19702",
@@ -1280,10 +1263,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380438"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194982"
     },
     {
-      "id": 76,
+      "id": 75,
       "address": "400 W. 39TH STREET WILMINGTON DE",
       "neighborhood": "Riverside",
       "zip": "19802",
@@ -1297,10 +1280,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380440"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194988"
     },
     {
-      "id": 77,
+      "id": 76,
       "address": "44 MAHOPAC DRIVE BEAR DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19701",
@@ -1314,10 +1297,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380441"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194994"
     },
     {
-      "id": 78,
+      "id": 77,
       "address": "7 WILLIAM PENN SQUARE NEW CASTLE DE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -1331,10 +1314,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380443"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217194999"
     },
     {
-      "id": 79,
+      "id": 78,
       "address": "2 MICA STREET TOWNSEND DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19734",
@@ -1348,7 +1331,58 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2215380445"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217195006"
+    },
+    {
+      "id": 79,
+      "address": "4 GREGG AVENUE NEWPORT DE",
+      "neighborhood": "Newport",
+      "zip": "19804",
+      "county": "New Castle, DE",
+      "price": null,
+      "price_basis": "judgment_or_upset",
+      "source": "Sheriff",
+      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
+      "saleDate": null,
+      "status": "Scheduled",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217195012"
+    },
+    {
+      "id": 80,
+      "address": "4 PINTAIL COURT MIDDLETOWN DE",
+      "neighborhood": "Other (New Castle)",
+      "zip": "19709",
+      "county": "New Castle, DE",
+      "price": null,
+      "price_basis": "judgment_or_upset",
+      "source": "Sheriff",
+      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
+      "saleDate": null,
+      "status": "Scheduled",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217195019"
+    },
+    {
+      "id": 81,
+      "address": "1332 W. 4TH STREET WILMINGTON DE",
+      "neighborhood": "Elsmere",
+      "zip": "19805",
+      "county": "New Castle, DE",
+      "price": null,
+      "price_basis": "judgment_or_upset",
+      "source": "Sheriff",
+      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
+      "saleDate": null,
+      "status": "Scheduled",
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2217195031"
     }
   ]
 }
