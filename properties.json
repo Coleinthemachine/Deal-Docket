@@ -1,252 +1,14 @@
 {
-  "generated_at": "2026-11-10T18:06:20.467658+00:00",
+  "generated_at": "2026-11-11T18:01:18.795223+00:00",
   "counts": {
-    "total": 70,
-    "auctions": 70,
+    "total": 56,
+    "auctions": 56,
     "for_sale": 0
   },
   "disclaimer": "Auction 'price' fields are judgment/upset amounts, not market value. Verify every property before bidding. Sold as-is, buyer beware.",
   "properties": [
     {
       "id": 1,
-      "address": "421 W. 22ND STREET WILMINGTON DE",
-      "neighborhood": "Riverside",
-      "zip": "19802",
-      "county": "New Castle, DE",
-      "price": null,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
-      "saleDate": "2026-11-10",
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259289"
-    },
-    {
-      "id": 2,
-      "address": "137 KANE DRIVE NEWARK DE",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19702",
-      "county": "New Castle, DE",
-      "price": null,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
-      "saleDate": "2026-11-10",
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259317"
-    },
-    {
-      "id": 3,
-      "address": "1702 LANCASTER AVE, 933 N SPRUCE ST, 1829 W 7TH ST, 2001 W 7TH ST WILMINGTON DE 19801&19805",
-      "neighborhood": "Hilltop",
-      "zip": "19801",
-      "county": "New Castle, DE",
-      "price": null,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
-      "saleDate": "2026-11-10",
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259355"
-    },
-    {
-      "id": 4,
-      "address": "227 N. BROOM STREET WILMINGTON DE",
-      "neighborhood": "Elsmere",
-      "zip": "19805",
-      "county": "New Castle, DE",
-      "price": null,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
-      "saleDate": "2026-11-10",
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259406"
-    },
-    {
-      "id": 5,
-      "address": "228 WEST 25TH STREET WILMINGTON DE",
-      "neighborhood": "Riverside",
-      "zip": "19802",
-      "county": "New Castle, DE",
-      "price": null,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
-      "saleDate": "2026-11-10",
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259417"
-    },
-    {
-      "id": 6,
-      "address": "186 OLD CHURCHMANS ROAD UNIT 22 NEW CASTLE DE",
-      "neighborhood": "New Castle (city)",
-      "zip": "19720",
-      "county": "New Castle, DE",
-      "price": null,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
-      "saleDate": "2026-11-10",
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259455"
-    },
-    {
-      "id": 7,
-      "address": "606 S. FRANKLIN STREET WILMINGTON DE",
-      "neighborhood": "Elsmere",
-      "zip": "19805",
-      "county": "New Castle, DE",
-      "price": null,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
-      "saleDate": "2026-11-10",
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259481"
-    },
-    {
-      "id": 8,
-      "address": "1107 E. WILLOW RUN DRIVE WILMINGTON DE",
-      "neighborhood": "Elsmere",
-      "zip": "19805",
-      "county": "New Castle, DE",
-      "price": null,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
-      "saleDate": "2026-11-10",
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259488"
-    },
-    {
-      "id": 9,
-      "address": "3139 FRAZER ROAD NEWARK DE",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19702",
-      "county": "New Castle, DE",
-      "price": null,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259268"
-    },
-    {
-      "id": 10,
-      "address": "27 YOSEMITE DRIVE BEAR DE",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19701",
-      "county": "New Castle, DE",
-      "price": null,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259274"
-    },
-    {
-      "id": 11,
-      "address": "1620 LANCASTER AVENUE WILMINGTON DE",
-      "neighborhood": "Elsmere",
-      "zip": "19805",
-      "county": "New Castle, DE",
-      "price": null,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259313"
-    },
-    {
-      "id": 12,
-      "address": "4507 KINGSGATE LANE WILMINGTON DE",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19808",
-      "county": "New Castle, DE",
-      "price": null,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259334"
-    },
-    {
-      "id": 13,
-      "address": "4103 GOLF VIEW DRIVE NEWARK DE",
-      "neighborhood": "Other (New Castle)",
-      "zip": "19702",
-      "county": "New Castle, DE",
-      "price": null,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259339"
-    },
-    {
-      "id": 14,
-      "address": "623 GEDDES STREET WILMINGTON DE",
-      "neighborhood": "Elsmere",
-      "zip": "19805",
-      "county": "New Castle, DE",
-      "price": null,
-      "price_basis": "judgment_or_upset",
-      "source": "Sheriff",
-      "source_detail": "New Castle County Sheriff Sale (via SalesWeb)",
-      "saleDate": null,
-      "status": "Scheduled",
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259384"
-    },
-    {
-      "id": 15,
       "address": "7 ROCKFORD ROAD UNIT D-2 WILMINGTON DE",
       "neighborhood": "Trolley Square",
       "zip": "19806",
@@ -260,10 +22,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238258520"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922077"
     },
     {
-      "id": 16,
+      "id": 2,
       "address": "303 RIVER ROAD WILMINGTON DE",
       "neighborhood": "Bellefonte",
       "zip": "19809",
@@ -277,10 +39,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238258577"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922081"
     },
     {
-      "id": 17,
+      "id": 3,
       "address": "1118 E. 13TH STREET WILMINGTON DE",
       "neighborhood": "Riverside",
       "zip": "19802",
@@ -294,10 +56,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238258415"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922064"
     },
     {
-      "id": 18,
+      "id": 4,
       "address": "303 TRANQUILITY WAY MIDDLETOWN DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19709",
@@ -311,10 +73,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238258547"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922079"
     },
     {
-      "id": 19,
+      "id": 5,
       "address": "39 CHERRY ROAD NEW CASTLE DE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -328,10 +90,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259527"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922616"
     },
     {
-      "id": 20,
+      "id": 6,
       "address": "20 CALVARESE DRIVE BEAR DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19701",
@@ -345,10 +107,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259539"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922619"
     },
     {
-      "id": 21,
+      "id": 7,
       "address": "2122 N. PINE STREET WILMINGTON DE",
       "neighborhood": "Riverside",
       "zip": "19802",
@@ -362,10 +124,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259544"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922621"
     },
     {
-      "id": 22,
+      "id": 8,
       "address": "207 N. FORD AVENUE WILMINGTON DE",
       "neighborhood": "Elsmere",
       "zip": "19805",
@@ -379,10 +141,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259549"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922627"
     },
     {
-      "id": 23,
+      "id": 9,
       "address": "1000 STINSFORD DRIVE NEWARK DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19713",
@@ -396,10 +158,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259560"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922629"
     },
     {
-      "id": 24,
+      "id": 10,
       "address": "4 VERSAILLES COURT NEWARK DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19702",
@@ -413,10 +175,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259570"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922631"
     },
     {
-      "id": 25,
+      "id": 11,
       "address": "8602 PARK COURT WILMINGTON DE",
       "neighborhood": "Riverside",
       "zip": "19802",
@@ -430,10 +192,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259582"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922634"
     },
     {
-      "id": 26,
+      "id": 12,
       "address": "41 READ AVENUE WILMINGTON DE",
       "neighborhood": "Newport",
       "zip": "19804",
@@ -447,10 +209,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259607"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922636"
     },
     {
-      "id": 27,
+      "id": 13,
       "address": "806 W. 21ST STREET WILMINGTON DE",
       "neighborhood": "Riverside",
       "zip": "19802",
@@ -464,10 +226,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259633"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922640"
     },
     {
-      "id": 28,
+      "id": 14,
       "address": "430 W. HANNA DRIVE NEWARK DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19702",
@@ -481,10 +243,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259654"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922642"
     },
     {
-      "id": 29,
+      "id": 15,
       "address": "312 W. 22ND STREET WILMINGTON DE",
       "neighborhood": "Riverside",
       "zip": "19802",
@@ -498,10 +260,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259674"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922644"
     },
     {
-      "id": 30,
+      "id": 16,
       "address": "*530 VINTAGE ROAD HOCKESSIN DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19707",
@@ -515,10 +277,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259689"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922647"
     },
     {
-      "id": 31,
+      "id": 17,
       "address": "*2517 GRENDON DRIVE WILMINGTON DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19808",
@@ -532,10 +294,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259705"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922652"
     },
     {
-      "id": 32,
+      "id": 18,
       "address": "*269 MILFORD DRIVE MIDDLETOWN DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19709",
@@ -549,10 +311,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259720"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922655"
     },
     {
-      "id": 33,
+      "id": 19,
       "address": "*6238 SUMMIT BRIDGE ROAD TOWNSEND DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19734",
@@ -566,10 +328,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259736"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922660"
     },
     {
-      "id": 34,
+      "id": 20,
       "address": "*74 ROSE LANE NEW CASTLE DE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -583,10 +345,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259750"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922665"
     },
     {
-      "id": 35,
+      "id": 21,
       "address": "*204 LIBERTY BOULEVARD NEW CASTLE DE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -600,10 +362,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259777"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922675"
     },
     {
-      "id": 36,
+      "id": 22,
       "address": "*207 RED TAILED HAWK LANE MIDDLETOWN DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19709",
@@ -617,10 +379,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259792"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922679"
     },
     {
-      "id": 37,
+      "id": 23,
       "address": "*2868 WRANGLE HILL ROAD BEAR DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19701",
@@ -634,10 +396,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259799"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922684"
     },
     {
-      "id": 38,
+      "id": 24,
       "address": "911 S. BROOM STREET WILMINGTON DE",
       "neighborhood": "Elsmere",
       "zip": "19805",
@@ -651,10 +413,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259812"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922689"
     },
     {
-      "id": 39,
+      "id": 25,
       "address": "207 LLOYD GUESSFORD ROAD TOWNSEND DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19734",
@@ -668,10 +430,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259825"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922694"
     },
     {
-      "id": 40,
+      "id": 26,
       "address": "1204 NEW STREET WILMINGTON DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19808",
@@ -685,10 +447,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259837"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922699"
     },
     {
-      "id": 41,
+      "id": 27,
       "address": "2607 FAIRHOPE ROAD WILMINGTON DE",
       "neighborhood": "Bellefonte",
       "zip": "19810",
@@ -702,10 +464,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259849"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922704"
     },
     {
-      "id": 42,
+      "id": 28,
       "address": "220 N. CLAYTON STREET WILMINGTON DE",
       "neighborhood": "Elsmere",
       "zip": "19805",
@@ -719,10 +481,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259860"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922710"
     },
     {
-      "id": 43,
+      "id": 29,
       "address": "219 RICE DRIVE BEAR DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19701",
@@ -736,10 +498,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259872"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922716"
     },
     {
-      "id": 44,
+      "id": 30,
       "address": "609 N. TATNALL STREET WILMINGTON DE",
       "neighborhood": "Hilltop",
       "zip": "19801",
@@ -753,10 +515,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259884"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922721"
     },
     {
-      "id": 45,
+      "id": 31,
       "address": "1016 N. ADAMS STREET WILMINGTON DE",
       "neighborhood": "Hilltop",
       "zip": "19801",
@@ -770,10 +532,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259887"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922726"
     },
     {
-      "id": 46,
+      "id": 32,
       "address": "*94 KARLYN DRIVE NEW CASTLE DE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -787,10 +549,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259890"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922731"
     },
     {
-      "id": 47,
+      "id": 33,
       "address": "*75 ROSE LANE NEW CASTLE DE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -804,10 +566,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259893"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922736"
     },
     {
-      "id": 48,
+      "id": 34,
       "address": "*0 LOVEVILLE ROAD WILMINGTON DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19808",
@@ -821,10 +583,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259898"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922742"
     },
     {
-      "id": 49,
+      "id": 35,
       "address": "*0 RUE MADORA BEAR DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19701",
@@ -838,10 +600,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259901"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922747"
     },
     {
-      "id": 50,
+      "id": 36,
       "address": "*2132 N. MARKET STREET WILMINGTON DE",
       "neighborhood": "Riverside",
       "zip": "19802",
@@ -855,10 +617,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259904"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922752"
     },
     {
-      "id": 51,
+      "id": 37,
       "address": "841 N. MADISON STREET WILMINGTON DE",
       "neighborhood": "Hilltop",
       "zip": "19801",
@@ -872,10 +634,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259908"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922757"
     },
     {
-      "id": 52,
+      "id": 38,
       "address": "1335 CYPRESS AVENUE WILMINGTON DE",
       "neighborhood": "Elsmere",
       "zip": "19805",
@@ -889,10 +651,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259912"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922762"
     },
     {
-      "id": 53,
+      "id": 39,
       "address": "1006 DILWORTH ROAD WILMINGTON DE",
       "neighborhood": "Elsmere",
       "zip": "19805",
@@ -906,10 +668,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259915"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922767"
     },
     {
-      "id": 54,
+      "id": 40,
       "address": "1233 WEST FOURTH STREET WILMINGTON DE",
       "neighborhood": "Elsmere",
       "zip": "19805",
@@ -923,10 +685,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259920"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922773"
     },
     {
-      "id": 55,
+      "id": 41,
       "address": "2 AVIGNON DRIVE NEWARK DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19702",
@@ -940,10 +702,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259922"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922780"
     },
     {
-      "id": 56,
+      "id": 42,
       "address": "44 MAHOPAC DRIVE BEAR DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19701",
@@ -957,10 +719,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259928"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922790"
     },
     {
-      "id": 57,
+      "id": 43,
       "address": "7 WILLIAM PENN SQUARE NEW CASTLE DE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -974,10 +736,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259931"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922795"
     },
     {
-      "id": 58,
+      "id": 44,
       "address": "2 MICA STREET TOWNSEND DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19734",
@@ -991,10 +753,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259934"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922800"
     },
     {
-      "id": 59,
+      "id": 45,
       "address": "4 GREGG AVENUE NEWPORT DE",
       "neighborhood": "Newport",
       "zip": "19804",
@@ -1008,10 +770,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259938"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922805"
     },
     {
-      "id": 60,
+      "id": 46,
       "address": "4 PINTAIL COURT MIDDLETOWN DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19709",
@@ -1025,10 +787,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259942"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922810"
     },
     {
-      "id": 61,
+      "id": 47,
       "address": "1332 W. 4TH STREET WILMINGTON DE",
       "neighborhood": "Elsmere",
       "zip": "19805",
@@ -1042,10 +804,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259945"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922815"
     },
     {
-      "id": 62,
+      "id": 48,
       "address": "20 TEXIS LANE AKA 1847 ST. AUGUSTINE ROAD, MIDDLETOWN DE 19709 PORT PENN DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19709",
@@ -1059,10 +821,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259949"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922820"
     },
     {
-      "id": 63,
+      "id": 49,
       "address": "708 N. JEFFERSON STREET WILMINGTON DE",
       "neighborhood": "Hilltop",
       "zip": "19801",
@@ -1076,10 +838,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259951"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922826"
     },
     {
-      "id": 64,
+      "id": 50,
       "address": "2402 N. JEFFERSON STREET WILMINGTON DE",
       "neighborhood": "Riverside",
       "zip": "19802",
@@ -1093,10 +855,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259965"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922837"
     },
     {
-      "id": 65,
+      "id": 51,
       "address": "523 JACOBSEN DRIVE NEWARK DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19702",
@@ -1110,10 +872,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259973"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922842"
     },
     {
-      "id": 66,
+      "id": 52,
       "address": "710 E. 11TH STREET WILMINGTON DE",
       "neighborhood": "Hilltop",
       "zip": "19801",
@@ -1127,10 +889,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259976"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922847"
     },
     {
-      "id": 67,
+      "id": 53,
       "address": "6 ST JOHN DRIVE WILMINGTON DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19808",
@@ -1144,10 +906,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259978"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922851"
     },
     {
-      "id": 68,
+      "id": 54,
       "address": "132 WALLS WAY BEAR DE",
       "neighborhood": "Other (New Castle)",
       "zip": "19701",
@@ -1161,10 +923,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259983"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922856"
     },
     {
-      "id": 69,
+      "id": 55,
       "address": "144 QUIGLEY BLVD NEW CASTLE DE",
       "neighborhood": "New Castle (city)",
       "zip": "19720",
@@ -1178,10 +940,10 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259986"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922862"
     },
     {
-      "id": 70,
+      "id": 56,
       "address": "904 N. ADAMS STREET WILMINGTON DE",
       "neighborhood": "Hilltop",
       "zip": "19801",
@@ -1195,7 +957,7 @@
       "beds": null,
       "baths": null,
       "sqft": null,
-      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2238259990"
+      "url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239922867"
     }
   ]
 }
